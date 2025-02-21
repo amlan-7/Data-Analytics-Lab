@@ -1,3 +1,5 @@
+SQL Data Analytics
+
 A collection of SQL queries for data extraction, transformation, and analysis. This repository includes data cleaning, exploratory data analysis (EDA), business intelligence reporting, and performance optimization using SQL.
 
 Features:
