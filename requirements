@@ -1,0 +1,20 @@
+1. Software & Database Requirements
+    Database Management System (DBMS):
+    MySQL / PostgreSQL(recommended) / SQL Server
+    SQLite (For lightweight usage)
+
+2. Data Visualization Tools (Optional for Dashboards):
+    Power BI
+    Tableau
+    Python (Matplotlib, Seaborn)
+
+3. SQL Query Editor:
+
+    MySQL Workbench
+    pgAdmin 4 (For PostgreSQL)
+    DBeaver / DataGrip (** Universal SQL Editors)
+
+4. Dataset Requirements
+    eCommerce Dataset (initial)
+    Dataset Fields: order_id, customer_id, product_id, order_date, total_amount, payment_method, category, region, etc.
+    Cleaned Data File: (final) after removing/filling null values                           
